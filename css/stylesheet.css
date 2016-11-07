@@ -1,0 +1,112 @@
+header {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    display: block;
+    text-align: center;
+    margin: 100px auto;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+#wrapper {
+  display: inline-block;
+  float: left;
+  width: 100%;
+  margin: 0 10% 0 10%;
+}
+
+.card {
+    float: left;
+    width: 15%;
+    margin: 0;
+    padding: 2.5%;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card li {
+    padding: 0.25em;  
+}
+
+.card ul {
+    vertical-align: middle;
+    list-style: none;
+
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0.5em;
+    padding: 0.5em 0;
+}
+
+.card h3 {
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0.5em 0;
+}
+
+/* Colour Configuration */
+
+body {
+    background-color: #3e3e3e;
+    color: #f0e9dc;
+}
+
+body a, body a:visited {
+  color: #3e3e3e;
+}
+
+body a:hover {
+  color: #5d5d5d;
+}
+
+.card ul {
+    background-color: #f0e9dc;;
+    color: #d0d0d0;
+}
+
+#email h3 {
+    background-color: #cf8ba2;
+}
+
+#social h3 {
+    background-color: #e0bf80;
+}
+
+#dcu h3 {
+    background-color: #5f7ab1;
+}
+
+#general h3 {
+    background-color: #90d6a6;
+}
+
+
+colour_palette {
+    /* http://www.xcolors.net/dl/darkly */
+    color: #f0e9dc;
+    color: #3e3e3e;
+    color: #f0e9dc;
+    color: #3e3e3e;
+    color: #5d5d5d;
+    color: #966575;
+    color: #cf8ba2;
+    color: #659675;
+    color: #90d6a6;
+    color: #968665;
+    color: #e0bf80;
+    color: #657596;
+    color: #5f7ab1;
+    color: #756596;
+    color: #807793;
+    color: #658e96;
+    color: #1fb6d3;
+    color: #d0d0d0;
+    color: #f6f6f6;
+}
