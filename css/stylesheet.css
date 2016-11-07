@@ -54,59 +54,63 @@ body {
 /* Colour Configuration */
 
 body {
-    background-color: #3e3e3e;
-    color: #f0e9dc;
+    background-color: #262425;
+    color: #cccccc;
 }
 
 body a, body a:visited {
-  color: #3e3e3e;
+    color: #262425;
 }
 
 body a:hover {
-  color: #5d5d5d;
+   color: #cccccc;
+}
+
+.card h3 {
+   color: #1e1a1b;
 }
 
 .card ul {
-    background-color: #f0e9dc;;
-    color: #d0d0d0;
+    background-color: #cccccc;;
+    color: #c0c0c0;
 }
 
 #email h3 {
-    background-color: #cf8ba2;
+    background-color: #9e7e8b;
 }
 
 #social h3 {
-    background-color: #e0bf80;
+    background-color: #d6c9a1;
 }
 
 #dcu h3 {
-    background-color: #5f7ab1;
+    background-color: #a4afce;
 }
 
 #general h3 {
-    background-color: #90d6a6;
+    background-color: #8caa94;
 }
 
 
 colour_palette {
-    /* http://www.xcolors.net/dl/darkly */
-    color: #f0e9dc;
-    color: #3e3e3e;
-    color: #f0e9dc;
-    color: #3e3e3e;
-    color: #5d5d5d;
-    color: #966575;
-    color: #cf8ba2;
-    color: #659675;
-    color: #90d6a6;
-    color: #968665;
-    color: #e0bf80;
-    color: #657596;
-    color: #5f7ab1;
-    color: #756596;
-    color: #807793;
-    color: #658e96;
-    color: #1fb6d3;
-    color: #d0d0d0;
-    color: #f6f6f6;
+    /* http://www.xcolors.net/dl/chalk */
+    foreground:   #cccccc;
+    background:   #262425;
+    cursorColor:  #cccccc;
+    color0:       #1e1a1b;
+    color8:       #403a3d;
+    color1:       #9e7e8b;
+    color9:       #da5189;
+    color2:       #8caa94;
+    color10:      #66e487;
+    color3:       #d6c9a1;
+    color11:      #debe5c;
+    color4:       #9dbdc9;
+    color12:      #71c2e0;
+    color5:       #c99cc5;
+    color13:      #e871dd;
+    color6:       #a4afce;
+    color14:      #607fd9;
+    color7:       #c0c0c0;
+    color15:      #ffffff;
 }
