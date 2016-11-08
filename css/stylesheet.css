@@ -15,12 +15,13 @@ body {
   display: inline-block;
   float: left;
   width: 80%;
-  margin: 0 10% 0 10%;
+  padding: 0 10%;
+  margin: 0;
 }
 
 .card {
     float: left;
-    width: 15%;
+    width: 20%;
     margin: 0;
     padding: 2.5%;
 }
