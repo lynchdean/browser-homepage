@@ -11,6 +11,10 @@ body {
     text-decoration: none;
 }
 
+#search {
+    text-align: center;
+}
+
 #wrapper {
   display: inline-block;
   float: left;
