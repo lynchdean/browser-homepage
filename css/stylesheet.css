@@ -15,6 +15,36 @@ body {
     text-align: center;
 }
 
+#searchbox {
+    background: #f0e9dc;
+    border: 0;
+    width: 36%;
+    margin: 2.5%;
+    padding: 0.5em 1em;
+}
+
+/* Placeholder text formatting */
+::-webkit-input-placeholder {
+  color: #3E3E3E;
+  font-family: 'Roboto', sans-serif;
+}
+
+:-moz-placeholder {
+  color: #3E3E3E;
+  font-family: 'Roboto', sans-serif;
+}
+
+::-moz-placeholder {
+  color: #3E3E3E;
+  font-family: 'Roboto', sans-serif;
+}
+
+:-ms-input-placeholder {
+  color: #3E3E3E;
+  font-family: 'Roboto', sans-serif;
+}
+/* End */
+
 #wrapper {
   display: inline-block;
   float: left;
@@ -35,7 +65,7 @@ body {
 }
 
 .card li {
-    padding: 0.25em;  
+    padding: 0.25em;
 }
 
 .card ul {
