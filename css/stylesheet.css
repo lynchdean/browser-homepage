@@ -90,7 +90,7 @@ body {
 
 body {
     background-color: #24262b;
-    color: #bccae2;
+    color: #FFF;
 }
 
 body a, body a:visited {
@@ -98,7 +98,7 @@ body a, body a:visited {
 }
 
 .card ul {
-    background-color: #bccae2;
+    background-color: #FFF;
 }
 
 #email h3 {
