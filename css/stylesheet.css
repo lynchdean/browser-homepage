@@ -16,7 +16,7 @@ body {
 }
 
 #searchbox {
-    background: #f0e9dc;
+    background: #bccae2;
     border: 0;
     width: 36%;
     margin: 2.5%;
@@ -25,22 +25,22 @@ body {
 
 /* Placeholder text formatting */
 ::-webkit-input-placeholder {
-  color: #3E3E3E;
+  color: #24262b;
   font-family: 'Roboto', sans-serif;
 }
 
 :-moz-placeholder {
-  color: #3E3E3E;
+  color: #24262b;
   font-family: 'Roboto', sans-serif;
 }
 
 ::-moz-placeholder {
-  color: #3E3E3E;
+  color: #24262b;
   font-family: 'Roboto', sans-serif;
 }
 
 :-ms-input-placeholder {
-  color: #3E3E3E;
+  color: #24262b;
   font-family: 'Roboto', sans-serif;
 }
 /* End */
@@ -89,46 +89,46 @@ body {
 /* Colour Configuration */
 
 body {
-    background-color: #3E3E3E;
-    color: #f0e9dc;
+    background-color: #24262b;
+    color: #bccae2;
 }
 
 body a, body a:visited {
-    color: #032C36;
+    color: #24262b;
 }
 
 .card ul {
-    background-color: #f0e9dc;
+    background-color: #bccae2;
 }
 
 #email h3 {
-    background-color: #C2454E;
+    background-color: #843c56;
 }
 
 #email a:hover {
-   color: #C2454E;
+   color: #843c56;
 }
 
 #social h3 {
-    background-color: #BEB090;
+    background-color: #a87458;
 }
 
 #social a:hover {
-   color: #BEB090;
+   color: #a87458;
 }
 
 #dcu h3 {
-    background-color: #7BBAC7;
+    background-color: #4a6aa3;
 }
 
 #dcu a:hover {
-   color: #7BBAC7;
+   color: #4a6aa3;
 }
 
 #general h3 {
-    background-color: #7CBF9E;
+    background-color: #83a86f;
 }
 
 #general a:hover {
-   color: #7CBF9E;
+   color: #83a86f;
 }
